@@ -1,26 +1,13 @@
 # 🔥 Kisumu Fuel Usage & KOKO Awareness Analysis
 
-## 📝 Overview
-
-This project analyzes fuel usage patterns and awareness of clean fuel alternatives (KOKO Networks) in Kisumu County, Kenya. The insights aim to guide a strategic market entry for clean fuel solutions based on simulated survey data from 101 households.
-
-> **Author:** Ian Mutunga  
-> **Date:** November 2025  
-> **Organization:** Simulated for KOKO Networks
-
----
-
 ## 📁 Dataset
 
-- **Type:** Simulated household micro-survey
-- **Size:** 101 respondents
-- **Fields include:**
-  - Monthly income
-  - Preferred cooking fuel
-  - Fuel spending
-  - KOKO product awareness & interest
-  - Price sensitivity
-  - Neighborhood
+- Monthly income
+- Preferred cooking fuel
+- Fuel spending
+- KOKO product awareness & interest
+- Price sensitivity
+- Neighborhood
 
 > 📝 *Data is synthetic and not from real field surveys.*
 
@@ -28,9 +15,9 @@ This project analyzes fuel usage patterns and awareness of clean fuel alternativ
 
 ## 🛠️ Tools & Technologies
 
-- **Analysis:** Excel / Python (assumed)
+- **Analysis:** Excel / Python
 - **Reporting:** PDF
-- **Visualization:** Bar plots, histograms, scatter plots (described in report)
+- **Visualization:** Bar plots, histograms, scatter plots (in the report)
 
 ---
 
@@ -44,14 +31,15 @@ This project analyzes fuel usage patterns and awareness of clean fuel alternativ
 
 ---
 
-## 📸 Report Preview
+## 📂 Files
 
-🧾 View the full report below:
+🧾 View the full project files below:
 
-📄 [Download Kisumu_Fuel_Usage_Analysis.pdf](/mnt/data/Kisumu_Fuel_Usage_Analysis.pdf)
+- 📄 [Download Report (PDF)](Kisumu_Fuel_Usage_Analysis.pdf)
+- 📓 [View Notebook](Kisumu_fuel_analysis.ipynb)
+- 📊 [Download Dataset](kisumu_fuel_data.xlsx)
 
-
-*(Upload this file using GitHub’s “Upload files” button)*
+> *Make sure all the files above are uploaded to this repository using GitHub's “Upload files” button.*
 
 ---
 
